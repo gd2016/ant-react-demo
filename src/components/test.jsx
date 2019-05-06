@@ -17,7 +17,7 @@ class Test extends Component {
     themes: {
       background: 'black',
       color: 'white',
-      font: '测试'
+      font: '测试',
     }
   }
   alertsth = () => {
